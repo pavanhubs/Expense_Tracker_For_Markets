@@ -8,4 +8,4 @@ The languages used for this project were
                               Node js - Frontend,
                               PostgreSQL - Database,
                               Swagger - UI,
-                              Python - Backend
+                              Python - Backend.
