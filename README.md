@@ -1,4 +1,4 @@
-This is the USER INTER_FACE for Expense_Tracker_For_Markets:
+This is the USER INTER_FACE for Expense_Tracker_For_Markets :
 
 <img width="1894" height="891" alt="image" src="https://github.com/user-attachments/assets/fb59b825-0f86-4098-8049-4d1ed09173fb" />
 
